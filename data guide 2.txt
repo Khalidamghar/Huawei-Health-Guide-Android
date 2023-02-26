@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbqTyQ.jpg",
+      "title": "Huawei Health Guide Android 1",
+        "text_Content": "Huawei Health is a comprehensive health management application that offers a wide range of features to help users maintain and improve their overall health and wellbeing. The application is available for Android devices and can be downloaded from the Google Play Store. Huawei Health provides users with a range of tools and resources to track their fitness, monitor their health, and manage their daily routines to achieve optimal health outcomes.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbqI8x.jpg",
+      "title": "Huawei Health Guide Android 2",
+        "text_Content": "The Huawei Health application offers a range of features and tools to help users manage their health and fitness. Some of the key features of the application include",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbqzaj.jpg",
+      "title": "Huawei Health Guide Android 3",
+        "text_Content": "Health Monitoring: The application allows users to monitor their health and fitness data such as heart rate, sleep quality, and daily activity levels. It uses sensors on the user's device to track data in real-time and provide accurate insights into their health.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbqAuV.jpg",
+      "title": "Huawei Health Guide Android 4",
+        "text_Content": "Workout Tracking: Huawei Health allows users to track their workouts, set fitness goals, and monitor their progress. Users can choose from a range of workout types, including walking, running, cycling, and swimming, and track their workouts using the application.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbqRwB.jpg",
+      "title": "Huawei Health Guide Android 5",
+        "text_Content": "Sleep Tracking: The application provides users with detailed insights into their sleep quality, including information on their sleep patterns, sleep stages, and sleep duration. This information can be used to identify areas for improvement in sleep habits and overall health.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbq5ZP.jpg",
+      "title": "Huawei Health Guide Android 6",
+        "text_Content": "Nutrition Tracking: Huawei Health allows users to track their daily food and water intake, including calorie intake and macronutrient ratios. Users can set goals for their nutrition and track their progress using the application.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HMbqYn1.jpg",
+      "title": "Huawei Health Guide Android 7",
+        "text_Content": "Personalized Recommendations: Based on the user's health and fitness data, Huawei Health provides personalized recommendations for workouts, nutrition, and other lifestyle changes that can improve their health outcomes.",
+        "text_Content_1": ""
 
 
 
